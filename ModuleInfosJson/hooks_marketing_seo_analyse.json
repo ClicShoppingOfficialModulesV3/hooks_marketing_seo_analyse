@@ -1,0 +1,29 @@
+{
+  "title":			"hooks_marketing_seo_analyse",
+  "type":           "hooks",
+  "vendor":			"Marketing",
+  "is_free":   "no",
+  "is_core": "no",
+  "website_link_to_sell" : "https://www.clicshopping.org/forum/files/file/164-hooks-marketing-seo-analyse/",
+  "version":			"1.0",
+  "req_core_version":	3.0,
+  "license":			"GPL 2 - MIT",
+  "tag":			    "seo, analyse, marketing",
+  "install":            "includes/ClicShopping/Apps/Marketing/",
+  "module_directory":   "Marketing",
+  "apps_name":          "SEO",
+  "type_module":      "Fixe",
+  "dependance":       "",
+  "description":      "This apps allow you to analyse your catalog web page across different criterias.",
+  "image":            "ModuleInfosJson/image.png",
+
+  "authors": [
+    {
+      "name":		    "ClicShopping Team",
+      "company":	    "Innov-concept",
+      "email":	      "",
+      "website":	    "http://www.clicshopping.com",
+      "Community":	  "http://www.clicshopping.org"
+    }
+  ]
+}
