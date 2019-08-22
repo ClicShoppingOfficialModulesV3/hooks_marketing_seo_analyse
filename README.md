@@ -31,6 +31,10 @@ criterias selected :
 - Css minification
 - js minification
 
+Grammar
+includes/Module/Hooks/Seo your can add new language grammar dynamically
+Includes : French and English
+
 
 Important Note :
 
